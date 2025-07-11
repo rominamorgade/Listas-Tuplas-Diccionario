@@ -1,7 +1,5 @@
-##TP FINAL
-
-###Integrantes:
-
-Sergio<br>
-Romina<br>
+TP FINAL
+Integrantes:
+Sergio
+Romina
 Caro
