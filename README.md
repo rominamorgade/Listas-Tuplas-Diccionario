@@ -2,6 +2,6 @@ TP FINAL
 
 Integrantes:
 
-Sergio
-Romina
+Sergio<br>
+Romina<br>
 Caro
